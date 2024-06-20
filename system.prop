@@ -1,0 +1,4 @@
+# Latest Security Patch
+ro.build.version.security_patch
+ro.vendor.build.security_patch
+ro.build.version.real_security_patch

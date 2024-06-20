@@ -1,0 +1,6 @@
+id=auto-security-patch-updates
+name=🔐 Auto Security Patch Updates
+version=v1.0
+versionCode=5
+author=@ShastikXD
+description=🌟 This module will update your security patch level by changing props value everytime you reboot your phone.
